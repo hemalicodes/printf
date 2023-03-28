@@ -28,7 +28,7 @@ hese lies when they see them in print
 Handle the following conversion specifier                                       
                                                                                     
 7. The big print gives and the small print takes away                               
-Handle the following flag characters for non-custom conversion specifiers:          
+Handle the following flag characters for non-custom conversion specifiers          
                                                                                     
 8. Sarcasm is lost in print                                                         
 Handle the following length modifiers for non-custom conversion specifiers:         
