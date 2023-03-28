@@ -31,7 +31,7 @@ Handle the following conversion specifier
 Handle the following flag characters for non-custom conversion specifiers          
                                                                                     
 8. Sarcasm is lost in print                                                         
-Handle the following length modifiers for non-custom conversion specifiers:         
+Handle the following length modifiers for non-custom conversion specifiers         
                                                                                     
 l                                                                                   
 h                                                                                   
