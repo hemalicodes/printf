@@ -12,7 +12,7 @@ t
 Handle the following conversion specifiers
 
 2. With a face like mine, I do better in print                                      
-Handle the following custom conversion specifiers:                                  
+Handle the following custom conversion specifiers                                 
                                                                                     
 3. What one has not experienced, one will never understand in print                 
 Handle the following conversion specifiers:                                         
