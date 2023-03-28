@@ -21,7 +21,7 @@ Handle the following conversion specifiers
 Use a local buffer of 1024 chars in order to call write as little as possible.      
                                                                                     
 5. My weakness is wearing too much leopard print                                    
-Handle the following custom conversion specifier:                                   
+Handle the following custom conversion specifier                                   
                                                                                     
 6. How is the world ruled and led to war? Diplomats lie to journalists and believe t
 hese lies when they see them in print                                               
