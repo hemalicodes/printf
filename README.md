@@ -54,7 +54,7 @@ Handle the - flag character for non-custom conversion specifiers
 13. Print is the sharpest and the strongest weapon of our party                     
 Handle the following custom conversion specifier                                 
                                                                                     
-14. The flood of print has turned reading into a process of gulping rather than savo
+14 The flood of print has turned reading into a process of gulping rather than savo
 ring                                                                                
 Handle the following custom conversion specifier                                   
                                                                                     
